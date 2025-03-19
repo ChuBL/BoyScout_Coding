@@ -1,5 +1,10 @@
 # BoyScout_Coding
 
+## A Quick Guide for Colab
+
+[Colab Tutorial](https://github.com/ChuBL/Colab_Tutorial_CS579)
+
+
 ## 2025 Spring: Prompt Engineering, Python Turtle, and Regex
 
 Click the button below to start:
